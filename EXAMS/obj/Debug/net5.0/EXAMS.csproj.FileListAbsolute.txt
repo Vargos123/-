@@ -1,0 +1,16 @@
+C:\Users\Vargos\source\repos\EXAMS\EXAMS\bin\Debug\net5.0\EXAMS.exe
+C:\Users\Vargos\source\repos\EXAMS\EXAMS\bin\Debug\net5.0\EXAMS.deps.json
+C:\Users\Vargos\source\repos\EXAMS\EXAMS\bin\Debug\net5.0\EXAMS.runtimeconfig.json
+C:\Users\Vargos\source\repos\EXAMS\EXAMS\bin\Debug\net5.0\EXAMS.runtimeconfig.dev.json
+C:\Users\Vargos\source\repos\EXAMS\EXAMS\bin\Debug\net5.0\EXAMS.dll
+C:\Users\Vargos\source\repos\EXAMS\EXAMS\bin\Debug\net5.0\ref\EXAMS.dll
+C:\Users\Vargos\source\repos\EXAMS\EXAMS\bin\Debug\net5.0\EXAMS.pdb
+C:\Users\Vargos\source\repos\EXAMS\EXAMS\obj\Debug\net5.0\EXAMS.csproj.AssemblyReference.cache
+C:\Users\Vargos\source\repos\EXAMS\EXAMS\obj\Debug\net5.0\EXAMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vargos\source\repos\EXAMS\EXAMS\obj\Debug\net5.0\EXAMS.AssemblyInfoInputs.cache
+C:\Users\Vargos\source\repos\EXAMS\EXAMS\obj\Debug\net5.0\EXAMS.AssemblyInfo.cs
+C:\Users\Vargos\source\repos\EXAMS\EXAMS\obj\Debug\net5.0\EXAMS.csproj.CoreCompileInputs.cache
+C:\Users\Vargos\source\repos\EXAMS\EXAMS\obj\Debug\net5.0\EXAMS.dll
+C:\Users\Vargos\source\repos\EXAMS\EXAMS\obj\Debug\net5.0\ref\EXAMS.dll
+C:\Users\Vargos\source\repos\EXAMS\EXAMS\obj\Debug\net5.0\EXAMS.pdb
+C:\Users\Vargos\source\repos\EXAMS\EXAMS\obj\Debug\net5.0\EXAMS.genruntimeconfig.cache

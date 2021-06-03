@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GyfY1u5DuFKCEXiFICphtjO3M4DrnXtWT8VVf7c1hwHwEW6WqofeffzrOFCUYrNkm5fO27gx40oCBk+vlXp54g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vargos\\source\\repos\\EXAMS\\EXAMS\\EXAMS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vargos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vargos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vargos\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
